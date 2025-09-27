@@ -1,0 +1,32 @@
+img {
+    border-radius: 200px;
+}
+
+body {
+    background-color: rgb(255, 130, 57);
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+}
+
+h2 {
+    font-size: 18px;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+a {
+    background-color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    color: slateblue;
+}
